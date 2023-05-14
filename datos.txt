@@ -1,3 +1,10 @@
+api hecha en Python con el Framework Django 
+para ejecutar  
+python manage.py runserver
+python3 manage.py runserver
+correra en http://localhost:8000
+claro ya saben ustedes llevan mas tiempo que yo XD
+
 super usuario 
 apiuser
 Qwsa1234
