@@ -1,0 +1,9 @@
+super usuario 
+apiuser
+Qwsa1234
+
+
+api en funcionamiento
+http://server.mxsig.com.mx:8500/docs/
+http://server.mxsig.com.mx:8500/api/UnidadFomento/{fecha}
+http://server.mxsig.com.mx:8500/api/UnidadFomento/2013-01-01
